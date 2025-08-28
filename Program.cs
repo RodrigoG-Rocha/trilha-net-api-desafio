@@ -2,6 +2,8 @@ using System.Text.Json.Serialization;
 using Microsoft.EntityFrameworkCore;
 using TrilhaApiDesafio.Context;
 
+// CORS*
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
